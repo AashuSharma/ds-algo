@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class network-delay-time {
+public class NetworkDelayTime {
     public int networkDelayTime(int[][] times, int N, int K) {
         int sol = -1;
         Set<Integer> visited = new HashSet<>();
